@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Abou-Hadhoud\\Abou-Hadhoud (K14)C# - Level 1\\Project_ X O\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00C673-C1BE-4DBE-A5B6-8CFBA20F34E0}|WindowsFormsApp1.csproj|h:\\abou-hadhoud\\abou-hadhoud (k14)c# - level 1\\project_ x o\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C00C673-C1BE-4DBE-A5B6-8CFBA20F34E0}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00C673-C1BE-4DBE-A5B6-8CFBA20F34E0}|WindowsFormsApp1.csproj|H:\\Abou-Hadhoud\\Abou-Hadhoud (K14)C# - Level 1\\Project_ X O\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00C673-C1BE-4DBE-A5B6-8CFBA20F34E0}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00C673-C1BE-4DBE-A5B6-8CFBA20F34E0}|WindowsFormsApp1.csproj|H:\\Abou-Hadhoud\\Abou-Hadhoud (K14)C# - Level 1\\Project_ X O\\WindowsFormsApp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00C673-C1BE-4DBE-A5B6-8CFBA20F34E0}|WindowsFormsApp1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "H:\\Abou-Hadhoud\\Abou-Hadhoud (K14)C# - Level 1\\Project_ X O\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "H:\\Abou-Hadhoud\\Abou-Hadhoud (K14)C# - Level 1\\Project_ X O\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAkwAQBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:27:39.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\Abou-Hadhoud\\Abou-Hadhoud (K14)C# - Level 1\\Project_ X O\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "H:\\Abou-Hadhoud\\Abou-Hadhoud (K14)C# - Level 1\\Project_ X O\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowL8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:49:25.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\Abou-Hadhoud\\Abou-Hadhoud (K14)C# - Level 1\\Project_ X O\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "H:\\Abou-Hadhoud\\Abou-Hadhoud (K14)C# - Level 1\\Project_ X O\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:39:51.956Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
